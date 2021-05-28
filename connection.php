@@ -1,5 +1,5 @@
 <?php
-    $conn = mysqli_connect("localhost", "root", "#mysqldatabase@27", "bbms");
+    $conn = mysqli_connect("localhost", "root", "", "");
     if(mysqli_connect_error()){
         die("ERROR : Unable to connect:" . mysqli_connect_error());
     } 
