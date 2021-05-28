@@ -1,0 +1,2 @@
+# Blood_Bank_Management_System
+The Blood Bank Management System is a project which manages the blood bank stock system by authorized admins of the hospital. It is a PHP based web application with MySQL database integration with providing features for registering and login for admins with their authenticated admin ID approved by hospital and keeping the records of Donors and Receivers for each transaction.
